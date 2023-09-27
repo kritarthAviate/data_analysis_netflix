@@ -1,0 +1,21 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+.DS_Store
+
+# Environment-specific files
+.env
+
+# Data files and output
+data/
+output/
